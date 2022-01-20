@@ -1,0 +1,13 @@
+El número de hilos que ejecutan el método process es: 2
+El tiempo de ejecución de la función process es: 33.521060
+El número de hilos que ejecutan el método process es: 4
+El tiempo de ejecución de la función process es: 22.489180
+El número de hilos que ejecutan el método process es: 8
+El tiempo de ejecución de la función process es: 19.784483
+El número de hilos que ejecutan el método process es: 16
+El tiempo de ejecución de la función process es: 21.833316
+El número de hilos que ejecutan el método process es: 32
+El tiempo de ejecución de la función process es: 27.467057
+El número de hilos que ejecutan el método process es: 64
+El tiempo de ejecución de la función process es: 45.034738
+slurmstepd-kahan01: error: *** JOB 17247 ON kahan01 CANCELLED AT 2021-11-26T16:41:46 DUE TO TIME LIMIT ***

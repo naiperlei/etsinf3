@@ -1,0 +1,14 @@
+El número de hilos que se ejecutan en paralelo es 2
+El tiempo de ejecución de la función process es: 29.921674
+El número de hilos que se ejecutan en paralelo es 4
+El tiempo de ejecución de la función process es: 15.942025
+El número de hilos que se ejecutan en paralelo es 8
+El tiempo de ejecución de la función process es: 8.062301
+El número de hilos que se ejecutan en paralelo es 16
+El tiempo de ejecución de la función process es: 5.529845
+El número de hilos que se ejecutan en paralelo es 32
+El tiempo de ejecución de la función process es: 3.908256
+El número de hilos que se ejecutan en paralelo es 64
+El tiempo de ejecución de la función process es: 2.396011
+El número de hilos que se ejecutan en paralelo es 128
+El tiempo de ejecución de la función process es: 8.052446

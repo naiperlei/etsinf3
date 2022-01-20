@@ -1,0 +1,7 @@
+//restore1.c
+El número de hilos que ejecutan el método process es: 16
+El tiempo de ejecución de la función process es: 21.381926
+
+//restore2.c
+El número de hilos que se ejecutan en paralelo es 16
+El tiempo de ejecución de la función process es: 6.046913
